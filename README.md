@@ -12,5 +12,9 @@ _Use underscore_ (_) _from head to tail to show italics_
 _**underscore followed by double asterisk**_
 
 Use hash mark(#) to dictate size of header, more hash = smaller size\
-#Largest\
-##Getting smaller
+# Largest
+## Getting smaller
+### Include space between the hash marks and word
+#### Not small enough
+##### Is it small enough yet?
+###### 6 (#) is the smallest u can get
