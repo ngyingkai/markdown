@@ -18,3 +18,33 @@ Use hash mark(#) to dictate size of header, more hash = smaller size\
 #### Not small enough
 ##### Is it small enough yet?
 ###### 6 (#) is the smallest u can get
+
+# Combining _italics with headers_
+## Combine italics **with bold**
+### Header _**bold and italics**_
+
+[Visit my GitHub](https://github.com/ngyingkai)
+
+[Adding _italics_ or **bold**](https://github.com/ngyingkai)
+
+## Visit my [**LinkedIn**](https://www.linkedin.com/in/ngyingkai/)
+
+Visit my [GitHub][] and my [LinkedIn][LinkedIn Link]
+
+[GitHub]: https://github.com/ngyingkai
+[LinkedIn Link]: https://www.linkedin.com/in/ngyingkai/
+
+## Picture of a tiger
+![Picture of a tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+---
+
+### Black cat
+![Black cat][]
+### Orange cat
+![Orange cat][Orange]
+
+[Black cat]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+
